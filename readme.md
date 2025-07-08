@@ -11,7 +11,15 @@ It includes:
 
 ## 📁 Project Structure
 
-├── client.py # Python client source code
-├── server.py # Python server source code
-├── client.exe # Precompiled Windows executable of the client
-└── README.md # Project documentation
+- `client.py`  
+    └─ Python client source code
+
+- `server.py`  
+    └─ Python server source code
+
+- `client.exe`  
+    └─ Precompiled Windows executable of the client
+
+- `README.md`  
+    └─ Project documentation
+
